@@ -1,0 +1,1 @@
+﻿{	"name": "SAMPLE/index.waPage/index.html",	"version": "1.0.0",	"loadDependencies": [		{			"id": "default",			"type": "theme"		},		{			"id": "index.waPage/styles/index.css",			"path": "WEBFOLDER",			"type": "style"		},		{			"id": "application.css",			"path": "WEBFOLDER",			"type": "style"		}	]}}
