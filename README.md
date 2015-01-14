@@ -27,3 +27,11 @@ Folder content of Modules/image-magick/Linux64/ needs to be executable.
 chmod +x
 ```
 
+##Example
+Resize image with ImageMagick
+```javascript
+// load module
+var imageMagick = require('image-magick');
+// resize image only if bigger
+imageMagick.convert('convert test.jpg -resize 64x64\> small_test.jpg');
+```
