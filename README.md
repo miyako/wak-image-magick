@@ -19,3 +19,11 @@ About
 * libffi/3.2.1
 
 Supported [commands](http://www.imagemagick.org/script/command-line-tools.php): identify, compare, composite, conjure, convert, mogrify, montage, stream.
+
+##Install
+###Linux
+Folder content of Modules/image-magick/Linux64/ needs to be executable.
+```
+chmod +x
+```
+
